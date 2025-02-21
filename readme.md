@@ -70,7 +70,7 @@ The project adheres to a layered architecture for maintainability and clarity:
 
 **3. Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/uber-clone.git
+   git clone https://github.com/abhiraj-singh-thakur/QuickCabs
    ```
 
 **4. Build and Run:**
