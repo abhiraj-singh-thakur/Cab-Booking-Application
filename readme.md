@@ -1,4 +1,4 @@
-# Cab Booking Application
+# QuickCabs
 
 ## Project Overview
 
