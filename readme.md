@@ -1,8 +1,8 @@
-# Uber Clone
+# Cab Booking Application
 
 ## Project Overview
 
-This repository houses the backend implementation for a ride-hailing application akin to Uber, built using the Spring Boot framework.  The project aims to deliver a robust and scalable solution encompassing key features like:
+This repository houses the backend implementation for a ride-hailing application akin to Uber or Ola, built using the Spring Boot framework.  The project aims to deliver a robust and scalable solution encompassing key features like:
 
 * Connecting riders and drivers
 * Managing ride requests
